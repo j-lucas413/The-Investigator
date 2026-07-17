@@ -7,7 +7,7 @@ You don't have to WRITE this app — but a tool you can't explain is a tool you
 can't trust, so read it. The pieces worth understanding are marked  #->
 """
 
-import streamlit as st
+import streamlit as st 
 from groq import Groq
 from datetime import datetime
 
