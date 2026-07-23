@@ -3,6 +3,7 @@ The Investigator — SOC Copilot (Week 7)
 A Streamlit app that correlates multiple log sources into one verdict using a
 hosted LLM (Groq / Llama 3.3 70B), and surfaces the automated pipeline's reports
 in a Case Files tab.
+Small Visual Change
 
 You don't have to WRITE this app — but a tool you can't explain is a tool you
 can't trust, so read it. The pieces worth understanding are marked  #->
